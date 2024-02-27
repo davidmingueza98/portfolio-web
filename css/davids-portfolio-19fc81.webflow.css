@@ -251,6 +251,14 @@ figcaption {
   font-size: 20px;
 }
 
+.paragraph-light-centered {
+  opacity: .6;
+  text-align: center;
+  align-self: auto;
+  font-family: Hind, sans-serif;
+  font-size: 20px;
+}
+
 .paragraph-light.cc-position-name {
   margin-bottom: 5px;
 }
